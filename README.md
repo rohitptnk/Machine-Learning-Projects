@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Repository for my Machine Learning Projects
+# Assignments
+Repository for my Assignments.
